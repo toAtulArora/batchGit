@@ -1,0 +1,7 @@
+./
+./IIIT
+# ./arXiv-w
+../Git/boundedThermo
+../Git/Sreyas_project_Monsoon2025
+../Git/penWCF
+../Git/DI_WCF
