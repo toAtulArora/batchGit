@@ -6,4 +6,6 @@
 # ./arXiv-w
 # ../Git/Sreyas_project_Monsoon2025
 ../Git/penWCF
-# ../Git/DI_WCF
+../Git/DI_WCF
+../Git/AdvSelfTestFromClassicalMPC
+../Git/DI_2PC_convergence
