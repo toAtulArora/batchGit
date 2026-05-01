@@ -1,11 +1,14 @@
 #!/usr/bin/env bash
 
-# SCRIPT_PATH="$PWD/autoGit.sh"
-ROOT_DIR="/Users/atulsingharora/Documents/GitHub"
-ROOT_BATCHGIT="/Users/atulsingharora/Documents/GitHub/batchGit"
+# ROOT_DIR="/Users/atulsingharora/Documents/GitHub"
+# ROOT_BATCHGIT="/Users/atulsingharora/Documents/GitHub/batchGit"
 
-SCRIPT_PATH="$ROOT_BATCHGIT/autoGit.sh"
-DIR_LIST="$ROOT_BATCHGIT/dirs.txt"
+# SCRIPT_PATH="$ROOT_BATCHGIT/autoGit.sh"
+# DIR_LIST="$ROOT_BATCHGIT/dirs.txt"
+
+source ~/.config/batchGit/config.conf
+
+
 
 
 read -p "Edit active directories? (y/n): " ans
