@@ -51,7 +51,8 @@ while IFS= read -r dir; do
   echo "[$dir] Running autoGit here."
   osascript <<EOF
 tell application "Terminal"
-    do script "cd \"$ROOT_DIR\" && cd \"$dir\" && \"$SCRIPT_PATH\""
+    do script "cd \"$ROOT_DIR\" && cd \"$dir\" 
+\"$SCRIPT_PATH\""
 end tell
 EOF
 
