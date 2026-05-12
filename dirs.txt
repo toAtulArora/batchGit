@@ -8,4 +8,4 @@
 ../Git/penWCF
 ../Git/DI_WCF
 ../Git/AdvSelfTestFromClassicalMPC
-../Git/DI_2PC_convergence
+../Git/DI_2PC
