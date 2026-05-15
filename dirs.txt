@@ -2,7 +2,7 @@
 ./projLaunch
 ../Git/boundedThermo
 
-# ./IIIT
+./IIIT
 # ./arXiv-w
 # ../Git/Sreyas_project_Monsoon2025
 ../Git/penWCF
