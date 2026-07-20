@@ -5,7 +5,7 @@
 # ./IIIT
 ./arXiv-w
 # ./incompetent-clowns.github.io
-# ./spineless
+./spineless
 # ../Git/Sreyas_project_Monsoon2025
 ../Git/penWCF
 ../Git/DI_WCF
