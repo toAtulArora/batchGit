@@ -2,7 +2,7 @@
 ./projLaunch
 ../Git/boundedThermo
 
-# ./IIIT
+./IIIT
 ./arXiv-w
 ./incompetent-clowns.github.io
 ./spineless
@@ -10,4 +10,4 @@
 ../Git/penWCF
 ../Git/DI_WCF
 # ../Git/AdvSelfTestFromClassicalMPC
-../Git/DI_2PC
+# ../Git/DI_2PC
