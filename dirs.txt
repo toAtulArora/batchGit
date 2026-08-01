@@ -2,6 +2,7 @@
 ./projLaunch
 ../Git/boundedThermo
 
+./donkeydocs.github.io
 ./IIIT
 ./arXiv-w
 ./incompetent-clowns.github.io
