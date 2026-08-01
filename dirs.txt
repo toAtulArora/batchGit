@@ -1,6 +1,7 @@
 ./batchGit
 ./projLaunch
 ../Git/boundedThermo
+../Git/LinAlg_ProblemSets
 
 ./donkeydocs.github.io
 ./IIIT
