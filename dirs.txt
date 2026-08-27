@@ -1,9 +1,9 @@
 ./batchGit
 ./projLaunch
 ../Git/boundedThermo
-../Git/LinAlg_ProblemSets
+#../Git/LinAlg_ProblemSets
 
-./donkeydocs.github.io
+#./donkeydocs.github.io
 ./IIIT
 ./arXiv-w
 # ./incompetent-clowns.github.io
